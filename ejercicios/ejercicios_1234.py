@@ -17,7 +17,7 @@ class Student:
         self.grades.append(n)
 
     def average_grade(self):
-        promedio =
+        pass
 
 
 
